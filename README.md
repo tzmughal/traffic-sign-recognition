@@ -1,6 +1,6 @@
 # Traffic Sign Recognition Using Deep Learning
 
-![Traffic Sign Recognition](.Images/traffic-signs.png)
+![Traffic Sign Recognition](./Images/traffic-signs.png)
 
 ## Overview
 
